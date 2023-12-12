@@ -4,7 +4,7 @@
 Egy bolt félig kész weboldalát kellene befejezni, az alábbi követelmények szerint:
 - A félig kész weboldal egy  React – Vite projekt, **pnpm** csomagkezelővel létrehozva
 - A projekt megtalálható az alábbi GitHub linken:
-  [Projekt URL](https://github.com/mkatay/products.git)
+  [Projekt URL](...)
 - A projekt tartalmaz pár automata tesztesetet is, melyek a Vitest keretrendszerrel vannak megvalósítva. A test mappa alatt találhatóak és ezeket nem kell/nem szabad módosítani.
 A sikeres megoldás esetén minden teszt helyesen le fog futni.A tesztesetek futtatása:
     > pnpm run test
@@ -32,3 +32,19 @@ A sikeres megoldás esetén minden teszt helyesen le fog futni.A tesztesetek fut
     - a színátmenetes háttér kialakításához használja a **variables.scss** fájlban deklarált változókat
   ![minta MD kijelzőn](./src/assets/minta_md.jpg)
   ![minta SM kujelzőn](./src/assets/minta_sm.jpg)
+
+### 2.feladat- a bolt és cég története
+- Készíts egy új komponenst amiben bemutatkozik a céged, a neve legyen **About.jsx**
+- egészítsd ki a menüt ezzel az új oldallal, valósítsd meg a routingolást is, hozz létre egy **about** route-t ennek a komponensnek
+- a megjelenítendő szöveget az **about.txt** fájlban találod, tagold a szöveget címsorokra és bekezdésekre
+- a megjelenítendő képet pedig az **assets** mappában:**about.jpg**
+- hozz létre egy „Provide feedback” szekciót és benne készíts egy űrlapot.
+- a űrlapnak legyen egy  „Email” mezője, melyben egy email címet lehessen megadni
+- s legyen egy „Feedback” mező, melyben egy többsoros szöveget lehessen megadni
+- A „Submit” egy gomb legyen, amely segítségével el lehet küldeni az űrlapot
+- Az űrlapot nem szükséges validálni, feldolgozni.
+- Formázd meg az oldalt bootstrap (vagy ekvivalens keretrendszer) segítségével!
+- A kinézet körülbelül feleljen meg a mintának.
+![form](src/assets/feedback.jpg)
+![about page](src/assets/minta_about.jpg)
+
