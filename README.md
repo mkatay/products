@@ -70,6 +70,8 @@ Olvasd be az adatokat a **fetch** vagy az **axios** API-val és tárold el őket
 Csak pár adatot kell megjeleníteni : **id**, **title**, **category** és **thumbnnail**.
 Hozz létre egy **SingleProduct.jsx** komponenst és abban valósítsd meg a termék kártya formájú megjelenítését.
 
+![products-md](src/assets/products_md.jpg)
+
 ### 5.feladat- A termékek részletes bemutatása
 
 - A létrehozott **SingleProduct.jsx** komponensben tegyél az oldalra egy **Details** felíratú gombot melyre a felhasználó ha rákattint töltödjön be egy **Details.jsx** komponens az alábbi részletes adatok megjelenítésével:**title**, **description**, **price**, **brand** és az **images** tömbben található fotók.
