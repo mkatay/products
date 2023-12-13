@@ -6,7 +6,5 @@ export class Feedback {
     }
   }
   
-  // Példa használat
-  const formSubmission = new Feedback('example@email.com', 'Ez egy példa feedback.');
-  console.log(formSubmission);
+  
   
