@@ -78,5 +78,6 @@ Hozz létre egy **SingleProduct.jsx** komponenst és abban valósítsd meg a ter
 - A megjelenítendő termék azonosítóját **route paraméterként** küldd.
 - Létre van hozva a szükséges **route**-t a fő komponensedben amellyel be fog tudni töltődni **Product.jsx** komponensed
 - a Product.jsx komponsből lehessen visszanavigálni az összes terméket bemutató oldalra
+  ![product-md](src/assets/product.jpg)
   
 ### 6.feladat- OOP(megvalósítva a 3.feladat utolsó alpontjában)
