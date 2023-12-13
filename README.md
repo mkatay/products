@@ -4,7 +4,7 @@
 Egy bolt félig kész weboldalát kellene befejezni, az alábbi követelmények szerint:
 - A félig kész weboldal egy  React – Vite projekt, **pnpm** csomagkezelővel létrehozva
 - A projekt megtalálható az alábbi GitHub linken:
-  [Projekt URL](...)
+  [Projekt URL](https://github.com/mkatay/products.git)
 - A projekt tartalmaz pár automata tesztesetet is, melyek a Vitest keretrendszerrel vannak megvalósítva. A test mappa alatt találhatóak és ezeket nem kell/nem szabad módosítani.
 A sikeres megoldás esetén minden teszt helyesen le fog futni.A tesztesetek futtatása:
     > pnpm run test
