@@ -56,6 +56,7 @@ A sikeres megoldás esetén minden teszt helyesen le fog futni.A tesztesetek fut
 - A „Submit” egy gomb legyen, amely segítségével el lehet küldeni az űrlapot
 - Az űrlapot nem szükséges validálni, feldolgozni.
 - a submit esmény bekövetkeztekor az űrlapadatokat tároljuk el egy olyan objektumba,  melyet úgy hozunk létre, hogy példányosítunk a **Feedback** osztályból, mely a **classes** mapa alatt található.
+- a létrehozott objektumot jelenítsük meg a konzolban
 
 ![form](src/assets/feedback.jpg)
 
