@@ -74,9 +74,9 @@ Hozz létre egy **SingleProduct.jsx** komponenst és abban valósítsd meg a ter
 
 ### 5.feladat- A termékek részletes bemutatása
 
-- A létrehozott **SingleProduct.jsx** komponensben tegyél az oldalra egy **Details** felíratú gombot melyre a felhasználó ha rákattint töltödjön be egy **Details.jsx** komponens az alábbi részletes adatok megjelenítésével:**title**, **description**, **price**, **brand** és az **images** tömbben található fotók.
+- A létrehozott **SingleProduct.jsx** komponensben tegyél az oldalra egy **Details** felíratú gombot melyre a felhasználó ha rákattint töltödjön be egy **Product.jsx** komponens az alábbi részletes adatok megjelenítésével:**title**, **description**, **price**, **brand** és az **images** tömbben található fotók.
 - A megjelenítendő termék azonosítóját **route paraméterként** küldd.
-- Értelemszerűen létre kell hoznod egy új **route**-t a fő komponensedben amellyel be fog tudni töltődni **Details.jsx** komponensed
-- a Details.jsx komponsből lehessen visszanavigálni az összes terméket bemutató oldalra
+- Létre van hozva a szükséges **route**-t a fő komponensedben amellyel be fog tudni töltődni **Product.jsx** komponensed
+- a Product.jsx komponsből lehessen visszanavigálni az összes terméket bemutató oldalra
   
 ### 6.feladat- OOP(megvalósítva a 3.feladat utolsó alpontjában)
