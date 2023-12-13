@@ -59,6 +59,7 @@ A sikeres megoldás esetén minden teszt helyesen le fog futni.A tesztesetek fut
 - a létrehozott objektumot jelenítsük meg a konzolban
 
 ![form](src/assets/feedback.jpg)
+![form](src/assets/feedback2.jpg)
 
 ### 4.feladat- a termékek bemutatása
 
@@ -76,4 +77,4 @@ Hozz létre egy **SingleProduct.jsx** komponenst és abban valósítsd meg a ter
 - Értelemszerűen létre kell hoznod egy új **route**-t a fő komponensedben amellyel be fog tudni töltődni **Details.jsx** komponensed
 - a Details.jsx komponsből lehessen visszanavigálni az összes terméket bemutató oldalra
   
-### 6.feladat- OOP
+### 6.feladat- OOP(megvalósítva a 3.feladat utolsó alpontjában)
