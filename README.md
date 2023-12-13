@@ -38,13 +38,17 @@ A sikeres megoldás esetén minden teszt helyesen le fog futni.A tesztesetek fut
 - egészítsd ki a menüt ezzel az új oldallal, valósítsd meg a routingolást is, hozz létre egy **about** route-t ennek a komponensnek
 - a megjelenítendő szöveget az **about.txt** fájlban találod, tagold a szöveget címsorokra és bekezdésekre
 - a megjelenítendő képet pedig az **assets** mappában:**about.jpg**
-- hozz létre egy „Provide feedback” szekciót és benne készíts egy űrlapot.
+- Formázd meg az oldalt bootstrap (vagy ekvivalens keretrendszer) segítségével!
+- A kinézet körülbelül feleljen meg a mintának.
+
+![about page](src/assets/minta_about.jpg)
+
+### 3.feladat- kapcsolat oldal kialakítása
+  A **Contact.jsx** komponens tartalmát kell kialakítani az alábbiak szerint: 
+- hozz létre egy „Provide feedback” szekciót a minta szerint és benne készíts egy űrlapot.
 - a űrlapnak legyen egy  „Email” mezője, melyben egy email címet lehessen megadni
 - s legyen egy „Feedback” mező, melyben egy többsoros szöveget lehessen megadni
 - A „Submit” egy gomb legyen, amely segítségével el lehet küldeni az űrlapot
 - Az űrlapot nem szükséges validálni, feldolgozni.
-- Formázd meg az oldalt bootstrap (vagy ekvivalens keretrendszer) segítségével!
-- A kinézet körülbelül feleljen meg a mintának.
-![form](src/assets/feedback.jpg)
-![about page](src/assets/minta_about.jpg)
 
+![form](src/assets/feedback.jpg)
